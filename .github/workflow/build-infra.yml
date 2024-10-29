@@ -2,7 +2,7 @@ name: build infrastructure
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   terraform:
